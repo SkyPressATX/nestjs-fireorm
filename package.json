@@ -9,8 +9,8 @@
     "firebase",
     "typescript"
   ],
-  "main": "dist/lib/nestjs-fireorm.js",
-  "typings": "dist/types/nestjs-fireorm.d.ts",
+  "main": "dist/nestjs-fireorm.js",
+  "typings": "dist/nestjs-fireorm.d.ts",
   "files": [
     "dist"
   ],
